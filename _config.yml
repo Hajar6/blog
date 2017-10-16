@@ -1,11 +1,11 @@
-name: "Blog of Wenli Zhang"
-description: "Web Front-End Blog by Wenli Zhang"
+name: "Blog of Hajar6"
+description: "Knowledge collection"
 
-url: "http://zhangwenli.com/blog"
-loadingImg: "http://zhangwenli.com/blog/img/loading.gif"
-filePath: "http://zhangwenli.com/blog/img/"
+url: "https://hajar6.github.io/blog"
+loadingImg: "https://hajar6.github.io/blog/img/loading.gif"
+filePath: "https://hajar6.github.io/blog/img/"
 
-timezone: Asia/Shanghai
+timezone: Asia/Shenzhen
 
 paginate: 16
 paginate_path: "/page:num"
